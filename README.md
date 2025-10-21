@@ -13,3 +13,6 @@ This project will provide the basics of creating a database on the MongoDB platf
 - Verify the collection is created on the MongoDB cloud using MongoDB Atlas platform. 
 - Modify one or more records using Python code in a Jupyter Notebook.  
 - Provide links to resources related to MongoDB so readers can explore and learn more about MongoDB.
+###### Links:
+- https://www.mongodb.com/products/platform
+- https://www.w3schools.com/python/python_mongodb_getstarted.asp
